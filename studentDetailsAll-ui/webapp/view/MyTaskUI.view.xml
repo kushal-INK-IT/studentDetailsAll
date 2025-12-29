@@ -1,4 +1,4 @@
-<mvc:View controllerName="studentDetailsAllui.studentDetailsAllui.controller.MyTaskUI" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+<mvc:View controllerName="studentDetailsAllui.studentDetailsAllui.controller.MyTaskUI" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:f="sap.ui.layout.form">
     <App id="app1">
         <pages>
             <Page title="Add Branch Fees" showHeader="false" showFooter="false">
